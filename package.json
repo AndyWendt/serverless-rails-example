@@ -1,0 +1,8 @@
+{
+  "devDependencies": {},
+  "dependencies": {
+    "serverless": "^1.47.0",
+    "serverless-offline": "^5.7.3",
+    "serverless-secrets-plugin": "^0.1.0"
+  }
+}
